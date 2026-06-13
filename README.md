@@ -6,5 +6,7 @@ Focused on visual fidelity, stability, and quality-of-life improvements without 
 ### Links
 
 Documentation: https://ultrapunk.theultraplace.com/guide.html
+
 Website: https://ultrapunk.theultraplace.com/
+
 Discord: https://discord.com/invite/UltraPlace
