@@ -9,4 +9,4 @@ Documentation: https://ultrapunk.theultraplace.com/guide.html
 
 Website: https://ultrapunk.theultraplace.com/
 
-Discord: https://discord.com/invite/UltraPlace
+Discord: https://discord.gg/UltraPlace

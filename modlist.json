@@ -1,0 +1,45 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Project Ultrapunk",
+    "description": "A curated visual and QoL-focused build for Cyberpunk 2077 that preserves the game's core experience. Focused on visual fidelity, stability, and quality-of-life improvements without major gameplay changes.",
+    "author": "VanStorm",
+    "maintainers": [
+      "github/VanStorm"
+    ],
+    "game": "Cyberpunk2077",
+    "tags": [
+      "DLC Required",
+      "EGS",
+      "GOG",
+      "Immersion",
+      "Phantom Liberty",
+      "Steam",
+      "Vanilla+"
+    ],
+    "nsfw": false,
+    "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://raw.githubusercontent.com/VanStorm/ProjectUltrapunk/main/ProjectUltrapunk.webp",
+      "readme": "https://ultrapunk.theultraplace.com/guide.html",
+      "download": "https://authored-files.wabbajack.org/Project%20Ultrapunk.wabbajack_9913d666-30d7-4476-99a6-3b74d03ee3b0",
+      "machineURL": "VanStorm/ProjectUltrapunk",
+      "discordURL": "https://discord.gg/UltraPlace",
+      "websiteURL": "https://ultrapunk.theultraplace.com/"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "YlG256AeePw=",
+      "Size": 1107232,
+      "NumberOfArchives": 243,
+      "SizeOfArchives": 6147015756,
+      "NumberOfInstalledFiles": 2998,
+      "SizeOfInstalledFiles": 5979151175,
+      "TotalSize": 12126166931
+    },
+    "version": "1.0.0"
+  }
+]
