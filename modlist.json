@@ -1,42 +1,45 @@
 [
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Project Ultrapunk",
-    "description": "A curated visual and QoL-focused build for Cyberpunk 2077 that preserves the game's core experience. Focused on visual fidelity, stability, and quality-of-life improvements without major gameplay changes.",
-    "author": "VanStorm, Eloquenz & Malavai",
+    "description": "A curated visual and QoL-focused build for Cyberpunk 2077 that preserves the game\u0027s core experience. Focused on visual fidelity, stability, and quality-of-life improvements without major gameplay changes.",
+    "author": "VanStorm, Eloquenz \u0026 Malavai",
     "maintainers": [
       "github/VanStorm"
     ],
-    "game": "Cyberpunk2077",
+    "game": "cyberpunk2077",
+    "official": false,
     "tags": [
       "DLC Required",
       "GOG",
       "Steam",
-      "Vanilla+"
+      "Vanilla\u002B"
     ],
     "nsfw": false,
+    "utility_list": false,
     "image_contains_title": true,
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/VanStorm/ProjectUltrapunk/main/ProjectUltrapunk.webp",
       "readme": "https://ultrapunk.theultraplace.com/guide.html",
-      "download": "https://authored-files.wabbajack.org/Project%20Ultrapunk.wabbajack_9913d666-30d7-4476-99a6-3b74d03ee3b0",
+      "download": "https://authored-files.wabbajack.org/Project Ultrapunk.wabbajack_ee0fa8a1-4072-404b-b275-686ff4bdde65",
       "machineURL": "ProjectUltrapunk",
       "discordURL": "https://discord.gg/UltraPlace",
-      "websiteURL": "https://ultrapunk.theultraplace.com/"
+      "websiteURL": "https://ultrapunk.theultraplace.com/",
+      "nexusCollection": null
     },
     "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "YlG256AeePw=",
-      "Size": 1107232,
+      "Hash": "Y8Lf+08qBEM=",
+      "Size": 1109545,
       "NumberOfArchives": 243,
-      "SizeOfArchives": 6147015756,
+      "SizeOfArchives": 6147049203,
       "NumberOfInstalledFiles": 2998,
-      "SizeOfInstalledFiles": 5979151175,
-      "TotalSize": 12126166931
+      "SizeOfInstalledFiles": 5979191159,
+      "TotalSize": 12126240362
     },
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2026-06-14T01:05:18.3744684Z",
+    "repositoryName": ""
   }
 ]
