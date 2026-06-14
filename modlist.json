@@ -26,7 +26,12 @@
       "machineURL": "ProjectUltrapunk",
       "discordURL": "https://discord.gg/UltraPlace",
       "websiteURL": "https://ultrapunk.theultraplace.com/",
-      "nexusCollection": null
+      "nexusCollection": {
+        "collectionId": "462225",
+        "slug": "eem6yz",
+        "domainName": "cyberpunk2077",
+        "lastRevisionNumber": 1
+      }
     },
     "download_metadata": {
       "Hash": "Y8Lf+08qBEM=",
