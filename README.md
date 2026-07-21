@@ -5,6 +5,8 @@ Focused on visual fidelity, stability, and quality-of-life improvements without 
 
 ### Links
 
+Nexus Mods: https://www.nexusmods.com/games/cyberpunk2077/collections/eem6yz
+
 Documentation: https://ultrapunk.theultraplace.com/guide.html
 
 Website: https://ultrapunk.theultraplace.com/
