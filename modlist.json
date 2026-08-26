@@ -23,7 +23,7 @@
     "links": {
       "image": "https://raw.githubusercontent.com/VanStorm/ProjectUltrapunk/main/ProjectUltrapunk.webp",
       "readme": "https://ultrapunk.theultraplace.com/guide.html",
-      "download": "https://authored-files.wabbajack.org/Project Ultrapunk.wabbajack_be37a137-aef4-4c37-87a8-ac9f0d0cd3fd",
+      "download": "https://authored-files.wabbajack.org/Project Ultrapunk.wabbajack_5141a61d-4ab6-4ec8-a53a-d47768bc3e3c",
       "machineURL": "ProjectUltrapunk",
       "discordURL": "https://discord.gg/UltraPlace",
       "websiteURL": "https://ultrapunk.theultraplace.com/",
@@ -35,17 +35,17 @@
       }
     },
     "download_metadata": {
-      "Hash": "m0RQLMwQe60=",
-      "Size": 1341710,
+      "Hash": "U627wL/3MY8=",
+      "Size": 1341679,
       "NumberOfArchives": 319,
       "SizeOfArchives": 5880324462,
       "NumberOfInstalledFiles": 4470,
-      "SizeOfInstalledFiles": 5856821031,
-      "TotalSize": 11737145493
+      "SizeOfInstalledFiles": 5856821015,
+      "TotalSize": 11737145477
     },
-    "version": "1.2.5",
+    "version": "1.2.6",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-08-26T18:21:00.2668099Z",
+    "dateUpdated": "2026-08-26T18:32:07.3290775Z",
     "repositoryName": ""
   }
 ]
